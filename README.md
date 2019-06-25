@@ -48,7 +48,7 @@ CELERY_TASK_PROTOCOL=1,
 
 ## Example
 
-[GoCelery GoDoc](https://godoc.org/github.com/gocelery/gocelery) has good examples.<br/>
+[GoCelery GoDoc](https://godoc.org/github.com/karfield/gocelery) has good examples.<br/>
 Also take a look at `example` directory for sample python code.
 
 ### GoCelery Worker Example

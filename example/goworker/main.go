@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/gocelery/gocelery"
+	"github.com/karfield/gocelery"
 )
 
 // exampleAddTask is integer addition task
